@@ -1,11 +1,5 @@
-<h1 align="center">Hello there 👋, I'm Gabrielle E. Dela Cruz</h1>
-<h3 align="left">I'm currently an undergraduate student enrolled in BSCpE at Technological Institute of the Philippines QC and this is my Github account for all things programming under the course of CPE311 - Computational Thinking with Python. Lots of my programming files remain not shared in this platform. Finally, a man of no consequence. </h3>
-
-- 🌱 I’m currently learning **about Data Science, under CPE311 - Computational Thinking with Python.**
-
-- 💬 Ask me about **anything that comes into mind, I may be able to give my own answer.**
-
-- 📫 How to reach me **by gabrielledelacruz540@gmail.com (which I barely visit)**
+<h1 align="center">Hello there 👋, I'm Gabrielle E. Dela Cruz, and this is Module 6!</h1>
+<h3 align="left">I'm currently an undergraduate student enrolled in BSCpE at Technological Institute of the Philippines QC and this is my Github account for all things programming under the course of CPE311 - Computational Thinking with Python. This folder contains most of the required outputs to be submitted for Module 6 of the Midterms Period, including this customized Readme file (this), the presentation for the made EDA, the analyzed dataset containing 1819 records, the Python Notebook, as well as the link to Colab within the PDF Documentation of the work.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
